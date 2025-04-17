@@ -6,6 +6,8 @@
 Ferns N Petals (FnP) is a leading Indian brand specializing in gifting solutions, including flowers, cakes, personalized gifts, and décor for various occasions. With a strong presence across cities and a growing digital footprint, FnP caters to a wide range of customer needs for celebrations and special moments.
 
 # Dashboard Overview
+
+![FnP Sales-Analysis-Dashboard ](https://github.com/user-attachments/assets/2ae7fec2-8b15-4264-b601-ee54ea4df7d1)
 This Sales Analysis Dashboard provides a comprehensive view of FnP’s performance across multiple dimensions such as orders, revenue, customer behavior, and product trends. It is designed to support data-driven decision-making by highlighting key business metrics, high-performing categories, peak sales periods, and top customer locations.
 
 # Executive Summary
