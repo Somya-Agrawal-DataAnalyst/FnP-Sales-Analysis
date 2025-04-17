@@ -27,4 +27,4 @@ Peak Order Time: Between 6 AM to 10 AM
 
 These insights help identify business strengths, seasonal trends, and opportunities to optimize marketing and operations.
 
-# Feel free to explore, fork, or contribute to this project.
+Feel free to explore, fork, or contribute to this project.
